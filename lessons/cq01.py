@@ -1,0 +1,1 @@
+"""Example environment diagram program"""
